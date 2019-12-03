@@ -29,8 +29,8 @@ public class App
 
         System.out.println("Expiration Date is :" + food1.expirationDate);
 
-        System.out.println("The food :"+ food1.foodName);
-        System.out.println("The price is  :"+ food1.price);
+        System.out.println("The food :" + food1.foodName);
+        System.out.println("The price is  :" + food1.price);
         System.out.println("Stock: " + food1.stock);
 
 
@@ -42,7 +42,7 @@ public class App
         animal1.age = 7;
         animal1.animalName = "Lisa";
         animal1.foodName = "Pedigree";
-        animal1.mood = 8;
+        animal1.moodlevel = 8;
         animal1.recreationalActivity = "Happy";
 
     }

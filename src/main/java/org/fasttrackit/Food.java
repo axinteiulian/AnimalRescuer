@@ -4,10 +4,10 @@ import java.time.LocalDate;
 
 public class Food {
 
+    public LocalDate expirationDate;
     String foodName;
     double price;
     double quantity;
-    LocalDate expirationDate = LocalDate.now() .plusMonths(4);
     boolean stock;
 
 }

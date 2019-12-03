@@ -4,8 +4,8 @@ public class Animal {
 
     String animalName;
     int age;
-    int hunger;
-    int mood;
+    int hungerlevel;
+    int moodlevel;
     String foodName;
     String recreationalActivity;
 
